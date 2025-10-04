@@ -1,0 +1,1 @@
+export default function Itineraries(){return(<div className='max-w-5xl mx-auto p-6'><h1 className='text-2xl font-semibold mb-4'>Itineraries</h1><div className='text-sm text-gray-600'>Edit timelines (stub).</div></div>) }

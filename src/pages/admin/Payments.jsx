@@ -1,0 +1,1 @@
+export default function Payments(){return(<div className='max-w-5xl mx-auto p-6'><h1 className='text-2xl font-semibold mb-4'>Payments</h1><div className='text-sm text-gray-600'>Track statuses & receipts (stub).</div></div>) }

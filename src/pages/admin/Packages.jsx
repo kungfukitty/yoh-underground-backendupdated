@@ -1,1 +1,0 @@
-export default function Packages(){return(<div className='max-w-5xl mx-auto p-6'><h1 className='text-2xl font-semibold mb-4'>Packages</h1><div className='text-sm text-gray-600'>Create and edit packages (stub).</div></div>) }

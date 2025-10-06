@@ -1,1 +1,0 @@
-import useAuthStore from '../api/authService';import { useEffect } from 'react';export default function useAuth(){ const store=useAuthStore(); useEffect(()=>{store.bootstrap()},[]); return store }
